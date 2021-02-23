@@ -1,4 +1,4 @@
-# SWAT-Backend-ASP.NET Core
+# SWAT Backend ASP.NET Core
 
 This repository contains source code for a ASP.NET Core web API (e.g. allows user authentication, booking for an event etc.)  used in SWAT frontend mobile app. 
 
